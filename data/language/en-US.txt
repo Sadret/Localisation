@@ -220,6 +220,7 @@ STR_5823    :Display banners in uppercase (RCT1 behavior)
 STR_5827    :Sets the color scheme used for the GUI
 STR_5842    :Sort scenarios into tabs by their difficulty (RCT2 behavior) or their source game (RCT1 behavior)
 STR_5843    :Enables progressive unlocking of scenarios (RCT1 behavior)
+STR_5862    :test_local
 STR_5872    :Disable plant aging such that they don’t wilt.
 STR_5907    :When enabled, zooming in will center around the cursor, as opposed to the screen center.
 STR_5921    :If enabled, rain and gloomy colors will be rendered during storms.
