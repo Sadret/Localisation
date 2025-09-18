@@ -2957,7 +2957,7 @@ STR_5858    :Använd GPU för grafiken istället för CPU. Ökar kompatibilitete
 STR_5859    :Aktiverar ’frame tweening’ för en visuellt mjukare spelupplevelse.{NEWLINE}Om avaktiverad kommer spelet köras i 40 bilder per sekund.
 STR_5860    :Växla mellan originalkoden och omskrivna koden för spårelement
 STR_5861    :Nyckelverifiering misslyckades.
-STR_5862    :Blockera okända spelare.
+STR_5862    :Blockera okända spelare
 STR_5863    :Tillåt endast spelare med kända nycklar att ansluta.
 STR_5864    :Denna server tillåter endast uppskrivna spelare att ansluta.
 STR_5865    :Logga chatthistorik
