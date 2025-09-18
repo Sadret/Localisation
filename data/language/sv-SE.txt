@@ -3836,3 +3836,5 @@ STR_6791    :Känslighet: {COMMA32}%
 STR_6792    :Entrébyggnader
 STR_6793    :Gäster och Personal
 STR_6794    :Landskap och Teman
+STR_7001    :Test7001
+STR_7002    :Test7002
